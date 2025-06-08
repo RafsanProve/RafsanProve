@@ -8,20 +8,20 @@
 
 ## 🛠️ My Toolbox
 
-![Dart](https://skillicons.dev/icons?i=dart)
-![flutter](https://skillicons.dev/icons?i=flutter)
-![react](https://skillicons.dev/icons?i=react)
-![nextjs](https://skillicons.dev/icons?i=nextjs)
-![nodejs](https://skillicons.dev/icons?i=nodejs)
-![python](https://skillicons.dev/icons?i=python)
-![java](https://skillicons.dev/icons?i=java)
-![spring](https://skillicons.dev/icons?i=spring)
-![pytorch](https://skillicons.dev/icons?i=pytorch)
-![tensorflow](https://skillicons.dev/icons?i=tensorflow)
-![opencv](https://skillicons.dev/icons?i=opencv)
-![git](https://skillicons.dev/icons?i=git)
-![docker](https://skillicons.dev/icons?i=docker)
-![qgis](https://img.shields.io/badge/QGIS-3A8E3A?style=flat&logo=qgis&logoColor=white)
+![Dart](https://skillicons.dev/icons?i=dart) Dart  
+![Flutter](https://skillicons.dev/icons?i=flutter) Flutter  
+![React](https://skillicons.dev/icons?i=react) React  
+![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js  
+![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js  
+![Python](https://skillicons.dev/icons?i=python) Python  
+![Java](https://skillicons.dev/icons?i=java) Java  
+![Spring Boot](https://skillicons.dev/icons?i=spring) Spring Boot  
+![PyTorch](https://skillicons.dev/icons?i=pytorch) PyTorch  
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow) TensorFlow  
+![OpenCV](https://skillicons.dev/icons?i=opencv) OpenCV  
+![Git](https://skillicons.dev/icons?i=git) Git  
+![Docker](https://skillicons.dev/icons?i=docker) Docker  
+
 
 ---
 
