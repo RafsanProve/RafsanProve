@@ -25,6 +25,7 @@
 </p>
 
 <p align="left">
+  &nbsp;&nbsp;
   Dart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   React &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,7 +36,7 @@
   SpringBoot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   PyTorch &nbsp;
   TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;
-  OpenCV &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  OpenCV &nbsp;&nbsp;&nbsp;
   Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Docker
 </p>
