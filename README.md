@@ -34,9 +34,9 @@
   Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   SpringBoot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   PyTorch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  OpenCV &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;
+  OpenCV &nbsp;&nbsp;&nbsp;&nbsp;
+  Git &nbsp;&nbsp;&nbsp;&nbsp;
   Docker
 </p>
 
