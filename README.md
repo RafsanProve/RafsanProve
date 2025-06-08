@@ -30,8 +30,8 @@
   Flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   React &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Next &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Node &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Node &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Java &nbsp;&nbsp;&nbsp;
   SpringBoot &nbsp
   PyTorch &nbsp;
