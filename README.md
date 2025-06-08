@@ -8,19 +8,21 @@
 
 ## 🛠️ My Toolbox
 
-![Dart](https://skillicons.dev/icons?i=dart) **Dart** &nbsp;&nbsp;
-![Flutter](https://skillicons.dev/icons?i=flutter) **Flutter** &nbsp;&nbsp;
-![React](https://skillicons.dev/icons?i=react) **React** &nbsp;&nbsp;
-![Next.js](https://skillicons.dev/icons?i=nextjs) **Next.js** &nbsp;&nbsp;
-![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js** &nbsp;&nbsp;
-![Python](https://skillicons.dev/icons?i=python) **Python** &nbsp;&nbsp;
-![Java](https://skillicons.dev/icons?i=java) **Java** &nbsp;&nbsp;
-![Spring Boot](https://skillicons.dev/icons?i=spring) **Spring Boot** &nbsp;&nbsp;
-![PyTorch](https://skillicons.dev/icons?i=pytorch) **PyTorch** &nbsp;&nbsp;
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow) **TensorFlow** &nbsp;&nbsp;
-![OpenCV](https://skillicons.dev/icons?i=opencv) **OpenCV** &nbsp;&nbsp;
-![Git](https://skillicons.dev/icons?i=git) **Git** &nbsp;&nbsp;
-![Docker](https://skillicons.dev/icons?i=docker) **Docker**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart" height="40"/><br>Dart &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" height="40"/><br>Flutter &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40"/><br>React &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/><br>Next.js &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40"/><br>Java &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" height="40"/><br>Spring Boot &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/><br>PyTorch &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br>TensorFlow &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" height="40"/><br>OpenCV &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/><br>Docker
+</p>
 
 ---
 
