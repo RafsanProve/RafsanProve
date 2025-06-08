@@ -145,9 +145,9 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sheikh-rafsan-jain/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sheikh-rafsan-jain/)  &nbsp;
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-cyan?style=flat-square&logo=twitter)](#) -->
-[![Email](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=gmail&logoColor=white)](mailto:rafsanprove123@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:rafsanprove123@gmail.com)
 
 ---
 
