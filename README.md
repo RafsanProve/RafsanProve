@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=docker" height="50" />
 </p>
 
-<p align="center">
+<p align="left">
   Dart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   React &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
