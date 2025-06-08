@@ -8,20 +8,37 @@
 
 ## 🛠️ My Toolbox
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart" height="40"/><br>Dart &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" height="40"/><br>Flutter &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40"/><br>React &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/><br>Next.js &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40"/><br>Java &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" height="40"/><br>Spring Boot &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/><br>PyTorch &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br>TensorFlow &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv" height="40"/><br>OpenCV &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/><br>Docker
+<p align="center">
+  <!-- Icons -->
+  <img src="https://skillicons.dev/icons?i=dart" height="50" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" />
+</p>
+
+<p align="center">
+  Dart &nbsp;&nbsp;
+  Flutter &nbsp;&nbsp;
+  React &nbsp;&nbsp;
+  Next.js &nbsp;&nbsp;
+  Node.js &nbsp;&nbsp;
+  Python &nbsp;&nbsp;
+  Java &nbsp;&nbsp;
+  Spring Boot &nbsp;&nbsp;
+  PyTorch &nbsp;&nbsp;
+  TensorFlow &nbsp;&nbsp;
+  OpenCV &nbsp;&nbsp;
+  Git &nbsp;&nbsp;
+  Docker
 </p>
 
 ---
