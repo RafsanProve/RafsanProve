@@ -25,18 +25,18 @@
 </p>
 
 <p align="center">
-  Dart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  React &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Next &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Node &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Dart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  React &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Next &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Node &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   SpringBoot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   PyTorch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;
-  OpenCV &nbsp;&nbsp;&nbsp;&nbsp;
-  Git &nbsp;&nbsp;&nbsp;&nbsp;
+  OpenCV &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Docker
 </p>
 
