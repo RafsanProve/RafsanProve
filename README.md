@@ -64,12 +64,12 @@
 
 ## 📂 Featured Projects
 
-| Name                             | Tech Stack                       | Description |
-|----------------------------------|----------------------------------|-------------|
-| **SmartSeg**                     | TensorFlow, OpenCV, Python       | Real-time semantic segmentation with live demo |
-| **FlutterLife** (App)           | Flutter, Firebase, Provider      | Cross-platform lifestyle app with auth, DB, UI |
-| **Vizduino**                    | Arduino, Blender, Python         | 3D representation of sensor data using Blender |
-| **AlgoMaster** (Web App)        | React, Node.js, MongoDB          | Learning platform for algorithm visualizations |
+| Name                             | Tech Stack                             | Description |
+|----------------------------------|----------------------------------------|-------------|
+| **Ekhonni**                      | SpringBoot, Next.js, Postgres, Docker  | Real-time product bidding/auction webapp |
+| **TasteVenture**                 | Django, Flutter, Postgres, ML          | Cross-platform restaurant recommendation app using Machine Learning |
+| **QRARG**                        | Next.js, Vercel, MongoDB               | QRARG Research Community website for engaging young research enthusiasts |
+| **Study-WorkNet**                | React, Node.js, Express.js, MongoDB    | Job searching & Career grooming platform for students |
 
 ---
 
@@ -85,15 +85,7 @@
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sheikh-rafsan-jain/)  
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-cyan?style=flat-square&logo=twitter)](#) -->
-[![Email](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=gmail)](mailto:rafsanprove123@gmail.com )
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-cyan?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-[![Email](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=gmail&logoColor=white)](mailto:rafsanprove123@gmail.com)
 
 ---
 
