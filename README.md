@@ -31,9 +31,9 @@
   Next &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Node &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Java &nbsp;&nbsp;&nbsp;
   SpringBoot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  PyTorch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  PyTorch &nbsp;&nbsp;&nbsp;
   TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;
   OpenCV &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
