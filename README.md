@@ -6,6 +6,14 @@
 
 ---
 
+## 🧰 About Me
+- Executive Director, CTF Manager - **MIST Cyber Security Club**
+- Executive Director, Committee of R&D - **MIST Computer Club**
+- Executive Director, Debate & Workshop - **MIST Debating Society**
+- Exclusive Committee Member -  **Josephite Math Club**
+
+---
+
 ## 🛠️ My Toolbox
 
 <p align="left">
@@ -47,18 +55,8 @@
 - 🔭 Currently crafting cross-platform experiences with **Flutter** and **React**.
 - 🌱 Deepening expertise in **machine learning**, especially **semantic segmentation** and **LSTM‑based forecasting**.
 - 🤝 Open to collaborating on open-source **AI**, **mobile**, or **full-stack** projects.
-- 🗣️ Passionate about **competitive programming**, **quantum computing**, and **data visualization**.
-- 🎨 Having fun bringing Arduino sensor data to life in Blender 3D animation.
-
----
-
-## 🧰 About Me
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}
-- :contentReference[oaicite:6]{index=6}
+- 🗣️ Passionate about **competitive programming**, **machine learning**, **artificial intelligence**, and **data visualization**.
+- 🎨 Having fun bringing Arduino sensor data to life.
 
 ---
 
