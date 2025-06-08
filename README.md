@@ -31,12 +31,12 @@
   Next &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Node &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Java &nbsp;&nbsp;&nbsp;
+  Java &nbsp;
   SpringBoot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  PyTorch &nbsp;&nbsp;&nbsp;
+  PyTorch &nbsp;
   TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;
-  OpenCV &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  OpenCV &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Docker
 </p>
 
