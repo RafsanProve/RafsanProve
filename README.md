@@ -9,35 +9,34 @@
 ## 🛠️ My Toolbox
 
 <p align="center">
-  <!-- Icons -->
-  <img src="https://skillicons.dev/icons?i=dart" height="50" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
+  <img src="https://skillicons.dev/icons?i=dart" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="50" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="50" />
 </p>
 
 <p align="center">
-  Dart &nbsp;&nbsp;
-  Flutter &nbsp;&nbsp;
-  React &nbsp;&nbsp;
-  Next.js &nbsp;&nbsp;
-  Node.js &nbsp;&nbsp;
-  Python &nbsp;&nbsp;
-  Java &nbsp;&nbsp;
-  Spring Boot &nbsp;&nbsp;
-  PyTorch &nbsp;&nbsp;
-  TensorFlow &nbsp;&nbsp;
-  OpenCV &nbsp;&nbsp;
-  Git &nbsp;&nbsp;
+  Dart &nbsp;&nbsp;&nbsp;&nbsp;
+  Flutter &nbsp;&nbsp;&nbsp;&nbsp;
+  React &nbsp;&nbsp;&nbsp;&nbsp;
+  Next.js &nbsp;&nbsp;&nbsp;&nbsp;
+  Node.js &nbsp;&nbsp;&nbsp;&nbsp;
+  Python &nbsp;&nbsp;&nbsp;&nbsp;
+  Java &nbsp;&nbsp;&nbsp;&nbsp;
+  Spring Boot &nbsp;&nbsp;&nbsp;&nbsp;
+  PyTorch &nbsp;&nbsp;&nbsp;&nbsp;
+  TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;
+  OpenCV &nbsp;&nbsp;&nbsp;&nbsp;
+  Git &nbsp;&nbsp;&nbsp;&nbsp;
   Docker
 </p>
 
