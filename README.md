@@ -28,11 +28,11 @@
   Dart &nbsp;&nbsp;&nbsp;&nbsp;
   Flutter &nbsp;&nbsp;&nbsp;&nbsp;
   React &nbsp;&nbsp;&nbsp;&nbsp;
-  Next.js &nbsp;&nbsp;&nbsp;&nbsp;
-  Node.js &nbsp;&nbsp;&nbsp;&nbsp;
+  Next &nbsp;&nbsp;&nbsp;&nbsp;
+  Node &nbsp;&nbsp;&nbsp;&nbsp;
   Python &nbsp;&nbsp;&nbsp;&nbsp;
   Java &nbsp;&nbsp;&nbsp;&nbsp;
-  Spring Boot &nbsp;&nbsp;&nbsp;&nbsp;
+  SpringBoot &nbsp;&nbsp;&nbsp;&nbsp;
   PyTorch &nbsp;&nbsp;&nbsp;&nbsp;
   TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;
   OpenCV &nbsp;&nbsp;&nbsp;&nbsp;
