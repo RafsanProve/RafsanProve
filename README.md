@@ -33,9 +33,9 @@
   Node &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Java &nbsp;&nbsp;&nbsp;
-  SpringBoot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  SpringBoot &nbsp
   PyTorch &nbsp;
-  TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;
+  TensorFlow &nbsp;
   OpenCV &nbsp;&nbsp;&nbsp;
   Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Docker
