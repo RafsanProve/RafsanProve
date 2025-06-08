@@ -93,7 +93,6 @@
 
 - **Semantic Segmentation ML Model** — Developed and trained a real-time segmentation model.
 - **Cross‑Platform Apps** — Delivered Flutter apps integrating Firebase and REST backends.
-- **Data Visualization Tool** — Created a Blender animation using live Arduino sensor data.
 - **Competitive Programming** — Solved hundreds of problems on platforms like Codeforces and LeetCode.
 
 ---
