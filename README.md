@@ -37,7 +37,7 @@
   PyTorch &nbsp;
   TensorFlow &nbsp;
   OpenCV &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Docker
 </p>
 
