@@ -8,20 +8,19 @@
 
 ## 🛠️ My Toolbox
 
-![Dart](https://skillicons.dev/icons?i=dart) Dart  
-![Flutter](https://skillicons.dev/icons?i=flutter) Flutter  
-![React](https://skillicons.dev/icons?i=react) React  
-![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js  
-![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js  
-![Python](https://skillicons.dev/icons?i=python) Python  
-![Java](https://skillicons.dev/icons?i=java) Java  
-![Spring Boot](https://skillicons.dev/icons?i=spring) Spring Boot  
-![PyTorch](https://skillicons.dev/icons?i=pytorch) PyTorch  
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow) TensorFlow  
-![OpenCV](https://skillicons.dev/icons?i=opencv) OpenCV  
-![Git](https://skillicons.dev/icons?i=git) Git  
-![Docker](https://skillicons.dev/icons?i=docker) Docker  
-
+![Dart](https://skillicons.dev/icons?i=dart) **Dart** &nbsp;&nbsp;
+![Flutter](https://skillicons.dev/icons?i=flutter) **Flutter** &nbsp;&nbsp;
+![React](https://skillicons.dev/icons?i=react) **React** &nbsp;&nbsp;
+![Next.js](https://skillicons.dev/icons?i=nextjs) **Next.js** &nbsp;&nbsp;
+![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js** &nbsp;&nbsp;
+![Python](https://skillicons.dev/icons?i=python) **Python** &nbsp;&nbsp;
+![Java](https://skillicons.dev/icons?i=java) **Java** &nbsp;&nbsp;
+![Spring Boot](https://skillicons.dev/icons?i=spring) **Spring Boot** &nbsp;&nbsp;
+![PyTorch](https://skillicons.dev/icons?i=pytorch) **PyTorch** &nbsp;&nbsp;
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow) **TensorFlow** &nbsp;&nbsp;
+![OpenCV](https://skillicons.dev/icons?i=opencv) **OpenCV** &nbsp;&nbsp;
+![Git](https://skillicons.dev/icons?i=git) **Git** &nbsp;&nbsp;
+![Docker](https://skillicons.dev/icons?i=docker) **Docker**
 
 ---
 
