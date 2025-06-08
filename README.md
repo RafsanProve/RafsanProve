@@ -1,8 +1,36 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I’m Rafsan Prove</h1>
+<h1 align="center">👋 Hi, I’m Sheikh Rafsan Jain</h1>
 <p align="center">
   A passionate <strong>Software Engineer</strong> 📱 | <strong>AI/ML Enthusiast</strong> 🤖 | <strong>Full‑Stack Developer</strong> 💻
 </p>
+
+---
+
+## 🛠️ My Toolbox
+
+![Dart](https://skillicons.dev/icons?i=dart)
+![flutter](https://skillicons.dev/icons?i=flutter)
+![react](https://skillicons.dev/icons?i=react)
+![nextjs](https://skillicons.dev/icons?i=nextjs)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![python](https://skillicons.dev/icons?i=python)
+![java](https://skillicons.dev/icons?i=java)
+![spring](https://skillicons.dev/icons?i=spring)
+![pytorch](https://skillicons.dev/icons?i=pytorch)
+![tensorflow](https://skillicons.dev/icons?i=tensorflow)
+![opencv](https://skillicons.dev/icons?i=opencv)
+![git](https://skillicons.dev/icons?i=git)
+![docker](https://skillicons.dev/icons?i=docker)
+![qgis](https://img.shields.io/badge/QGIS-3A8E3A?style=flat&logo=qgis&logoColor=white)
+
+---
+
+## ⌨️ My Journey
+- 🔭 Currently crafting cross-platform experiences with **Flutter** and **React**.
+- 🌱 Deepening expertise in **machine learning**, especially **semantic segmentation** and **LSTM‑based forecasting**.
+- 🤝 Open to collaborating on open-source **AI**, **mobile**, or **full-stack** projects.
+- 🗣️ Passionate about **competitive programming**, **quantum computing**, and **data visualization**.
+- 🎨 Having fun bringing Arduino sensor data to life in Blender 3D animation.
 
 ---
 
@@ -16,12 +44,16 @@
 
 ---
 
-## 💼 Skills
+## 🧰 Core Skills
 
-| 🛠️ Languages & Frameworks   | 🌐 Web & Mobile             | 🤖 AI & Data Science           |
-|----------------------------|----------------------------|-------------------------------|
-| :contentReference[oaicite:7]{index=7}   | :contentReference[oaicite:8]{index=8}    | :contentReference[oaicite:9]{index=9}      |
-| :contentReference[oaicite:10]{index=10}            | :contentReference[oaicite:11]{index=11} | :contentReference[oaicite:12]{index=12}   |
+| Category        | Technologies & Tools                                  |
+|----------------|--------------------------------------------------------|
+| Programming     | Dart, JavaScript/TypeScript, Python, C++             |
+| Frontend        | Flutter, React, Next.js, HTML/CSS                   |
+| Backend         | Node.js, Express.js, REST APIs, Firebase            |
+| Databases       | SQL, NoSQL (Firestore, MongoDB)                     |
+| ML & Data       | TensorFlow, OpenCV, Pandas, NumPy, LSTM, Time-Series |
+| Other           | Git, CLI, Linux, Figma, Docker                      |
 
 ---
 
@@ -30,27 +62,38 @@
 
 ---
 
-## 📌 Featured Projects
-- :contentReference[oaicite:14]{index=14}
-- :contentReference[oaicite:15]{index=15}
-- :contentReference[oaicite:16]{index=16}
+## 📂 Featured Projects
 
-:contentReference[oaicite:17]{index=17}
+| Name                             | Tech Stack                       | Description |
+|----------------------------------|----------------------------------|-------------|
+| **SmartSeg**                     | TensorFlow, OpenCV, Python       | Real-time semantic segmentation with live demo |
+| **FlutterLife** (App)           | Flutter, Firebase, Provider      | Cross-platform lifestyle app with auth, DB, UI |
+| **Vizduino**                    | Arduino, Blender, Python         | 3D representation of sensor data using Blender |
+| **AlgoMaster** (Web App)        | React, Node.js, MongoDB          | Learning platform for algorithm visualizations |
 
 ---
 
-## ⚙️ Fun & Reflective
-<!-- Use features like GitHub Actions or badges (visitor count, latest blog, etc.) -->
-- :contentReference[oaicite:18]{index=18}
-- :contentReference[oaicite:19]{index=19}
-- :contentReference[oaicite:20]{index=20}
+## 🌟 Highlights
+
+- **Semantic Segmentation ML Model** — Developed and trained a real-time segmentation model.
+- **Cross‑Platform Apps** — Delivered Flutter apps integrating Firebase and REST backends.
+- **Data Visualization Tool** — Created a Blender animation using live Arduino sensor data.
+- **Competitive Programming** — Solved hundreds of problems on platforms like Codeforces and LeetCode.
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](#)  
-[![Twitter](https://img.shields.io/badge/-Twitter-cyan?style=flat-square&logo=twitter)](#)  
-[![Email](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=gmail)](mailto:name@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sheikh-rafsan-jain/)  
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-cyan?style=flat-square&logo=twitter)](#) -->
+[![Email](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=gmail)](mailto:rafsanprove123@gmail.com )
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-cyan?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+[![Email](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
